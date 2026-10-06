@@ -27,12 +27,12 @@ text{font-family:Arial,Helvetica,sans-serif !important;fill:#f6f7fb !important} 
 <text  x="34" y="40" class="m muted dh-small" font-family="Courier New, monospace" font-size="15" font-weight="400">&lt; Dhiraj_Rathore /&gt;</text>
 <text  x="52" y="118" class="t muted dh-body rise" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">Hi, I'm</text>
 <text  x="48" y="190" class="t dh-h1 rise" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900">DHIRAJ <tspan class="blue">RATHORE</tspan></text>
-<rect x="50" y="215" width="180" height="44" rx="22" class="chip"/>
-<text x="140" y="243" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#f6f7fb">DATA ANALYST</text>
-<rect x="250" y="215" width="325" height="44" rx="22" class="chip"/>
-<text x="412.5" y="243" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#f6f7fb">MARKETING AUTOMATION</text>
-<rect x="595" y="215" width="185" height="44" rx="22" class="chip"/>
-<text x="687.5" y="243" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#f6f7fb">DATA ENGINEER</text>
+<rect x="50" y="215" width="175" height="44" rx="22" class="chip"/>
+<text x="137.5" y="243" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="0.2">DATA ANALYST</text>
+<rect x="250" y="215" width="315" height="44" rx="22" class="chip"/>
+<text x="407.5" y="243" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="0.2">MARKETING AUTOMATION</text>
+<rect x="595" y="215" width="175" height="44" rx="22" class="chip"/>
+<text x="682.5" y="243" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="0.2">DATA ENGINEER</text>
 <text  x="52" y="305" class="t dh-body" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">6+ years turning complex data into actionable insights</text>
 <text  x="52" y="337" class="t dh-body" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">and personalized customer experiences.</text>
 <circle cx="55" cy="385" r="6" class="blue"/><text  x="72" y="391" class="t dh-small" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400">Gurugram, Haryana, India</text>
