@@ -1,16 +1,25 @@
-## Hi there 👋
+# Dhiraj Rathore
 
-<!--
-**drj477/drj477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/hero.svg?v=1" alt="Dhiraj Rathore — Data Analyst & Marketing Automation Specialist" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="./assets/about-life.svg?v=1" alt="About Dhiraj Rathore" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="./assets/stack.svg?v=1" alt="Technology stack" />
+</p>
+
+<p align="center">
+  <img src="./assets/id-dashboard.svg?v=1" alt="Professional snapshot" />
+</p>
+
+<p align="center">
+  <img src="./assets/connect.svg?v=1" alt="Connect with Dhiraj Rathore" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhiraj-rathore-80b26317b/">LinkedIn</a>
+</p>
