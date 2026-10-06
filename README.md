@@ -1,6 +1,6 @@
 # Dhiraj Rathore
 
-<p align="center"><img src="./assets/hero.svg?v=5" alt="Dhiraj Rathore profile hero"/></p>
+<p align="center"><img src="./assets/hero.svg?v=6" alt="Dhiraj Rathore profile hero"/></p>
 
 <p align="center"><img src="./assets/about-life.svg?v=3" alt="About Dhiraj Rathore"/></p>
 
